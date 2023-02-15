@@ -1,0 +1,31 @@
+body {
+    background-color: hsl(190, 60% , 50%);
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+}
+
+#odin {
+    font-size: 160px;
+}
+
+.menu {
+    font-size: 80px;
+}
+
+h1 {
+    font-size: 60px;
+}
+h3 {
+    font-size: 30px;
+}
+
+a,
+p,
+li {
+    font-size: 20px;
+}
